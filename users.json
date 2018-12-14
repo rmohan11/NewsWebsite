@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5a87d2554c1a26855232e448"},"first_name":"Rakesh","last_name":"Mohan","role":"reporter","user_name":"rmohan11","password":"password"}
+{"_id":{"$oid":"5a88031d2cda9bd6ef913059"},"first_name":"Rocky","last_name":"Balboa","role":"reporter","user_name":"rmohan12","password":"password"}
+{"_id":{"$oid":"5a880de22cda9bd9b8245ab7"},"first_name":"Harvey","last_name":"Specter","role":"subscriber","user_name":"rmohan13","password":"password"}
+{"_id":{"$oid":"5a8a020f2cda9bec921d4e02"},"first_name":"Rishi","last_name":"Munus","role":"subscriber","user_name":"rmunus11","password":"password"}
